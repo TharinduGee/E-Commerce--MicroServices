@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.micoservices</groupId>
-        <artifactId>micorservices-new</artifactId>
+        <artifactId>E_Commerce_Microservices</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <artifactId>inventory-service</artifactId>
