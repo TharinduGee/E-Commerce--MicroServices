@@ -2,7 +2,7 @@ spring:
   application:
     name: discovery-server
 server:
-  port: 0
+  port: 8761
 
 eureka:
   instance:
